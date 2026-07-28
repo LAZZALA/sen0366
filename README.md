@@ -29,12 +29,12 @@ Experimental testing and metrological characterization highlighted several diffe
 1. Upload `code.ino` to the board.
 2. Open the Serial Monitor at **115200 baud**.
 3. Input an integer command (1–26) to execute operations:
-   * `1`: Single measurement[cite: 1]
-   * `2`: Continuous measurement[cite: 1]
-   * `19`: Set 1 mm resolution (recommended)[cite: 1]
-   * `20`: Set 0.1 mm resolution[cite: 1]
-   * `25`: Turn laser ON[cite: 1]
-   * `26`: Turn laser OFF[cite: 1]
+   * `1`: Single measurement
+   * `2`: Continuous measurement
+   * `19`: Set 1 mm resolution 
+   * `20`: Set 0.1 mm resolution
+   * `25`: Turn laser ON
+   * `26`: Turn laser OFF
 
 ## Credits
 
